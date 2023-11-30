@@ -1,6 +1,6 @@
 # Verificar Pin 
 
-O projeto tem como objetivo criar um programa em JavaScript que gere quatro números, aleatórios ou não, e receba do usuário a mesma quantidade de números, para verificar se o número digitado pelo usuário é igual ao número gerado.
+O projeto tem como objetivo criar um programa em JavaScript que gere quatro números aleatórios e receba do usuário a mesma quantidade de números, para verificar se o número digitado pelo usuário é igual ao número gerado.
 
 
 ## 🚀 Começando
