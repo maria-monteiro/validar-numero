@@ -29,12 +29,3 @@ As ferramentas que foram usadas para criar o projeto
 * [HTML]
 
 
-## 🖇️ Colaborando
-
-Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga as etapas abaixo:
-Faça um fork deste repositório.
-Crie uma branch com sua feature ou correção de bug: git checkout -b minha-feature.
-Faça as alterações desejadas e faça commit: git commit -m 'Minha nova feature'.
-Envie suas alterações para o repositório remoto: git push origin minha-feature.
-Abra um pull request para que suas alterações sejam revisadas.
-
