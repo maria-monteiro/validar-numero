@@ -23,7 +23,7 @@ Continue tentando até acertar o número.
 
 
 ## 🛠️ Construído com
-As ferramentas que usadas para criar o projeto
+As ferramentas que foram usadas para criar o projeto
 * [JavasCript]
 * [CSS]
 * [HTML]
