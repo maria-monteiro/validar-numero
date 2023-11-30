@@ -2,6 +2,7 @@
 
 O projeto tem como objetivo criar um programa em JavaScript que gere quatro números, aleatórios ou não, e receba do usuário a mesma quantidade de números, para verificar se o número digitado pelo usuário é igual ao número gerado.
 
+
 ## 🚀 Começando
 
 funcionalidades
@@ -11,8 +12,7 @@ funcionalidades
 - Contagem de tentativas realizadas pelo usuário.
 
 
-
-### 📋 Como executar o projeto
+## 📋 Como executar o projeto
 
 Clone este repositório em sua máquina local.
 Abra o arquivo index.html em um navegador web.
@@ -22,19 +22,16 @@ O programa fornecerá feedback sobre a proximidade do número inserido em relaç
 Continue tentando até acertar o número.
 
 
-
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
+As ferramentas que usadas para criar o projeto
 * [JavasCript]
 * [CSS]
 * [HTML]
 
+
 ## 🖇️ Colaborando
 
 Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga as etapas abaixo:
-
 Faça um fork deste repositório.
 Crie uma branch com sua feature ou correção de bug: git checkout -b minha-feature.
 Faça as alterações desejadas e faça commit: git commit -m 'Minha nova feature'.
